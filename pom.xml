@@ -20,6 +20,9 @@
         <lombok.version>1.18.34</lombok.version>
         <springdoc-openapi>2.4.0</springdoc-openapi>     
         <maven.archetypep.version>3.2.1</maven.archetypep.version>
+        <sonar.projectKey>billing</sonar.projectKey>
+        <sonar.projectName>billing</sonar.projectName>
+        <sonar.host.url>http://sonarqube:9000</sonar.host.url>
  
     </properties> 
        
